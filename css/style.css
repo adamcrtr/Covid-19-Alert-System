@@ -1,0 +1,162 @@
+/* register form css*/
+#register {
+    width:500px;
+    height:500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+/* main space between each section */
+.space1 {
+  width:80%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+/* header margin */
+.topheader {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+/*  */
+.containerside {
+  border-right: solid;
+  border-color: rgb(210, 217, 217);
+  border-width: 3px;
+  text-align: center;
+}
+/* spacing for footer */
+.footerspace {
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+/* adding margin to button */
+.regbutton {
+  margin-bottom: 10px;
+  padding-bottom: 100px;
+}
+
+#login {
+  margin-top: 20px;
+}
+#loginbtn {
+  margin-top: 10px;
+}
+
+.box {
+  margin-top: 10px;
+}
+
+#deleteform {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#but_logout {
+  margin-top: 10px;
+}
+
+#symtpomshead {
+  margin-top: 30px;
+}
+
+.space {
+  width:80%;
+
+
+}
+
+.headerbanner {
+  width:auto;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: center;
+}
+
+.headimg {
+  width: 300px;
+  height:300px;
+}
+
+.centered {
+  position: absolute;
+  top: 5%;
+  left: 40%;
+  transform: translate(-5%, -40%);
+}
+
+.text {
+ background-color:rgba(192,192,192, 0.6);
+ font-size:25px;
+}
+
+.imgspace {
+  margin-right: -20px;
+}
+.square {
+  border-style: solid;
+}
+
+.lightsquare {
+  border-style: solid;
+  border-width: thin;
+}
+
+.alerttable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btnuser {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+
+.alert {
+  padding: 15px;
+  background-color: #f44226; /* Red */
+  color: white;
+  margin-bottom: 12.5px;
+  font-family:tahoma;
+}
+
+
+.success {
+  padding: 15px;
+  background-color: #5cb85d; /* green */
+  color: white;
+  margin-bottom: 12.5px;
+  font-family:tahoma;
+}
+
+body {
+  font-family:tahoma;
+}
+
+.nav {
+  display:inline;
+
+}
+
+
+.testinginfo {
+  font-size: 20px;
+}
+
+/* formatting body */
+body {
+	position: relative;
+	min-height: 100%;
+	color: #555555;
+	background-color: #FFFFFF;
+	margin: 0;
+	padding-bottom: 100px; /* Same height as footer */
+}
